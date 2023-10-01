@@ -4,6 +4,7 @@ Example foot note[^1]
 
 ![Image of favorites in browser](assets/test-photo.png)
 
+[Check out the secret window](secret-window/hidden-garden.md)
 
 ## References
 1. [GitHub](https://github.com) 
